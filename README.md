@@ -1,5 +1,7 @@
 # Hi, I'm Ankit Kumar 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=Ankit3773&label=Profile%20views&color=0e75b6&style=flat)
+
 **Backend Developer — Java & Spring Boot** | B.Tech CSE @ LPU (Class of 2027) | Amritsar, India
 
 I build production-grade REST APIs and care about understanding what's happening under the hood — auth, concurrency, data integrity, deployment. Currently sharpening DSA and going deep on Spring internals while preparing for placements.
@@ -49,12 +51,14 @@ A real-world booking backend built end-to-end and deployed live.
 ### 📫 Reach me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ankitkumar3773/
-- 📧 Email: Ankit3250a@gamil.com
+- 📧 Email: ankit3250a@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit3773&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ankit3773&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit3773&layout=compact&theme=default)
