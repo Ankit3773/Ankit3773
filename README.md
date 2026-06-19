@@ -33,7 +33,7 @@ A real-world booking backend built end-to-end and deployed live.
 - **3-stage payment lifecycle** and **35+ REST endpoints** with integration tests
 - **Deployed on AWS EC2** — Nginx reverse proxy, systemd service, Let's Encrypt HTTPS
 
-🌐 **Live:** [naryantravel.duckdns.org](https://naryantravel.duckdns.org)
+🌐 **Live:** [narayantravels.duckdns.org](https://narayantravels.duckdns.org)
 
 ---
 
@@ -48,8 +48,8 @@ A real-world booking backend built end-to-end and deployed live.
 
 ### 📫 Reach me
 
-- 💼 LinkedIn: `<add-your-linkedin-url>`
-- 📧 Email: `<add-your-email>`
+- 💼 LinkedIn: https://www.linkedin.com/in/ankitkumar3773/
+- 📧 Email: Ankit3250a@gamil.com
 
 ---
 
